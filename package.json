@@ -1,5 +1,5 @@
 {
-  "name": "no-name",
+  "name": "vaadin-spring",
   "license": "UNLICENSED",
   "vaadin": {
     "dependencies": {
